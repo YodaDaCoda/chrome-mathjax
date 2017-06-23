@@ -1,3 +1,5 @@
+# MathJax for Chrome
+
 Simple extension to implement MathJax globally.
 
 I did not write the library that does this, I simply packaged it as an extension for chrome. I deserve no credit.
